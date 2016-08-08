@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="classes/model" path="src/model"/>
+	<classpathentry kind="src" output="classes/action" path="src/action"/>
+	<classpathentry kind="src" output="classes/test" path="src/test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="bootstrap"/>
+	<classpathentry kind="lib" path="lib/hibernate-validator.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-entitymanager.jar"/>
+	<classpathentry kind="lib" path="lib/jboss-seam.jar" sourcepath="lib/src/jboss-seam-sources.jar"/>
+	<classpathentry kind="lib" path="lib/jboss-seam-ui.jar" sourcepath="lib/src/jboss-seam-ui-sources.jar"/>
+	<classpathentry kind="lib" path="lib/jboss-seam-debug.jar"/>
+	<classpathentry kind="lib" path="lib/jboss-cache.jar"/>
+	<classpathentry kind="lib" path="lib/jbpm-jpdl.jar"/>
+	<classpathentry kind="lib" path="lib/antlr.jar"/>
+	<classpathentry kind="lib" path="lib/jgroups.jar"/>
+	<classpathentry kind="lib" path="lib/jsf-api.jar"/>
+	<classpathentry kind="lib" path="lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="lib/testng.jar"/>
+	<classpathentry kind="lib" path="lib/jboss-el.jar"/>
+	<classpathentry kind="lib" path="lib/el-api.jar"/>
+	<classpathentry kind="lib" path="lib/mvel14.jar"/>
+	<classpathentry kind="lib" path="lib/drools-core.jar"/>
+	<classpathentry kind="lib" path="lib/drools-compiler.jar"/>
+	<classpathentry kind="lib" path="lib/janino.jar"/>
+	<classpathentry kind="lib" path="lib/antlr-runtime.jar"/>
+	<classpathentry kind="lib" path="lib/persistence-api.jar"/>
+	<classpathentry kind="lib" path="lib/ejb-api.jar"/>
+	<classpathentry kind="lib" path="lib/jsr250-api.jar"/>
+	<classpathentry kind="lib" path="lib/jta.jar"/>
+	<classpathentry kind="lib" path="lib/core.jar"/>
+	<classpathentry kind="lib" path="lib/jboss-embedded-api.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-search.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-core.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-similarity-2.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-memory-2.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-memory-2.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-core-2.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/jwnl.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/libsvm.jar"/>
+	<classpathentry kind="lib" path="lib/filterbuilder.jar"/>
+	<classpathentry kind="lib" path="lib/htmllexer.jar"/>
+	<classpathentry kind="lib" path="lib/htmlparser.jar" sourcepath="lib/htmlparser.jar"/>
+	<classpathentry kind="lib" path="lib/sax2.jar"/>
+	<classpathentry kind="lib" path="lib/thumbelina.jar"/>
+	<classpathentry kind="lib" path="lib/delicious-1.14.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-httpclient-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/openrdf-sesame-2.1.3-onejar.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-jdk14-1.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/smtp.jar"/>
+	<classpathentry kind="lib" path="lib/dsn.jar"/>
+	<classpathentry kind="lib" path="lib/imap.jar"/>
+	<classpathentry kind="lib" path="lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="lib/pop3.jar"/>
+	<classpathentry kind="lib" path="lib/activation.jar"/>
+	<classpathentry kind="lib" path="lib/simpack-0.91-bin.jar"/>
+	<classpathentry kind="lib" path="lib/flickrapi-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/weka.jar" sourcepath="C:/Users/xu/workspace/testproject/lib"/>
+	<classpathentry kind="lib" path="lib/simmetrics_jar_v1_6_2_d07_02_07.jar"/>
+	<classpathentry kind="lib" path="lib/wsdl4j-1.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/axis.jar"/>
+	<classpathentry kind="lib" path="lib/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="lib/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.8.jar"/>
+	<classpathentry kind="lib" path="lib/saaj.jar"/>
+	<classpathentry kind="lib" path="lib/watson-client-api.jar"/>
+	<classpathentry kind="lib" path="resources"/>
+	<classpathentry kind="lib" path="lib/arq.jar"/>
+	<classpathentry kind="lib" path="lib/jena.jar"/>
+	<classpathentry kind="lib" path="lib/iri.jar"/>
+	<classpathentry kind="lib" path="lib/icu4j_3_4.jar"/>
+	<classpathentry kind="lib" path="lib/arq-extra.jar"/>
+	<classpathentry kind="lib" path="lib/wstx-asl-3.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.5.6.jar"/>
+	<classpathentry kind="lib" path="lib/json.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-highlighter.jar"/>
+	<classpathentry kind="lib" path="lib/flanagan.jar"/>
+	<classpathentry kind="lib" path="lib/Jama-1.0.2.jar" sourcepath="lib/Jama-1.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/javabuilder.jar"/>
+	<classpathentry kind="lib" path="lib/myadd.jar"/>
+	<classpathentry kind="lib" path="lib/javaml-0.1.5.jar"/>
+	<classpathentry kind="lib" path="lib/ajt-1.20.jar"/>
+	<classpathentry kind="lib" path="lib/commons-math-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections.jar"/>
+	<classpathentry kind="lib" path="lib/drej.jar"/>
+	<classpathentry kind="lib" path="lib/vecmath.jar"/>
+	<classpathentry kind="lib" path="lib/commons-digester.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="lib/jsf-facelets-1.1.14.jar"/>
+	<classpathentry kind="lib" path="lib/icefaces.jar"/>
+	<classpathentry kind="lib" path="lib/icefaces-comps.jar"/>
+	<classpathentry kind="lib" path="lib/icefaces-facelets.jar"/>
+	<classpathentry kind="lib" path="lib/just-ice.jar"/>
+	<classpathentry kind="lib" path="lib/push-server.jar"/>
+	<classpathentry kind="lib" path="lib/postgresql-8.4-701.jdbc4.jar"/>
+	<classpathentry kind="output" path="test-build"/>
+</classpath>

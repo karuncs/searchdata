@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/iwis/!svn/ver/299/testproject/view/layout
+END
+menu.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/iwis/!svn/ver/309/testproject/view/layout/menu.xhtml
+END
+display.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/iwis/!svn/ver/2/testproject/view/layout/display.xhtml
+END
+edit.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/iwis/!svn/ver/2/testproject/view/layout/edit.xhtml
+END
+mecomenu.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/iwis/!svn/ver/309/testproject/view/layout/mecomenu.xhtml
+END
+template.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/iwis/!svn/ver/2/testproject/view/layout/template.xhtml
+END
+mecotemplate.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/iwis/!svn/ver/309/testproject/view/layout/mecotemplate.xhtml
+END
+loginout.xhtml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/iwis/!svn/ver/2/testproject/view/layout/loginout.xhtml
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/iwis/!svn/ver/2/testproject/bootstrap/deploy
+END
+hsqldb-ds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/iwis/!svn/ver/2/testproject/bootstrap/deploy/hsqldb-ds.xml
+END
+remoting-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/iwis/!svn/ver/2/testproject/bootstrap/deploy/remoting-service.xml
+END
+jboss-xa-jdbc.rar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/iwis/!svn/ver/2/testproject/bootstrap/deploy/jboss-xa-jdbc.rar
+END
+jboss-local-jdbc.rar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/iwis/!svn/ver/2/testproject/bootstrap/deploy/jboss-local-jdbc.rar
+END
+jms-ra.rar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/iwis/!svn/ver/2/testproject/bootstrap/deploy/jms-ra.rar
+END
+ejb3-interceptors-aop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/iwis/!svn/ver/2/testproject/bootstrap/deploy/ejb3-interceptors-aop.xml
+END

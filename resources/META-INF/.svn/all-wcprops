@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/iwis/!svn/ver/2/testproject/resources/META-INF
+END
+persistence-dev.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/iwis/!svn/ver/58/testproject/resources/META-INF/persistence-dev.xml
+END
+persistence-test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/iwis/!svn/ver/35/testproject/resources/META-INF/persistence-test.xml
+END
+application.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/iwis/!svn/ver/2/testproject/resources/META-INF/application.xml
+END
+persistence-prod.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/iwis/!svn/ver/140/testproject/resources/META-INF/persistence-prod.xml
+END
+ejb-jar.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/iwis/!svn/ver/2/testproject/resources/META-INF/ejb-jar.xml
+END
+jboss-app.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/iwis/!svn/ver/2/testproject/resources/META-INF/jboss-app.xml
+END

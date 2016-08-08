@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/iwis/!svn/ver/224/testproject/src/model/svm
+END
+SvmPredict.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/iwis/!svn/ver/223/testproject/src/model/svm/SvmPredict.java
+END
+SvmToy.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/iwis/!svn/ver/223/testproject/src/model/svm/SvmToy.java
+END
+SvmScale.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/iwis/!svn/ver/223/testproject/src/model/svm/SvmScale.java
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/iwis/!svn/ver/315/testproject/src/model/aau
+END
+IndexTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/iwis/!svn/ver/204/testproject/src/model/aau/IndexTerm.java
+END
+RelevantItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/iwis/!svn/ver/158/testproject/src/model/aau/RelevantItem.java
+END
+SearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/iwis/!svn/ver/335/testproject/src/model/aau/SearchResult.java
+END
+Recommendation.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/iwis/!svn/ver/55/testproject/src/model/aau/Recommendation.java
+END
+SpectralClusterBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/iwis/!svn/ver/298/testproject/src/model/aau/SpectralClusterBean.java
+END
+EvaluationUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/iwis/!svn/ver/211/testproject/src/model/aau/EvaluationUser.java
+END
+Statistic.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/iwis/!svn/ver/87/testproject/src/model/aau/Statistic.java
+END
+SemanticSimilarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/iwis/!svn/ver/2/testproject/src/model/aau/SemanticSimilarity.java
+END
+Tag.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/iwis/!svn/ver/315/testproject/src/model/aau/Tag.java
+END
+UserPreference.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/iwis/!svn/ver/192/testproject/src/model/aau/UserPreference.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/iwis/!svn/ver/15/testproject/src/model/aau/Category.java
+END
+TagCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/iwis/!svn/ver/298/testproject/src/model/aau/TagCluster.java
+END
+TagNeighbour.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/iwis/!svn/ver/266/testproject/src/model/aau/TagNeighbour.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/iwis/!svn/ver/176/testproject/src/model/aau/User.java
+END
+SemanticGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/iwis/!svn/ver/2/testproject/src/model/aau/SemanticGraph.java
+END
+Similarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/iwis/!svn/ver/265/testproject/src/model/aau/Similarity.java
+END
+Resource.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/iwis/!svn/ver/274/testproject/src/model/aau/Resource.java
+END
+SemanticExpansion.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/iwis/!svn/ver/15/testproject/src/model/aau/SemanticExpansion.java
+END
+Ranking.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/iwis/!svn/ver/261/testproject/src/model/aau/Ranking.java
+END
+MEcoSimilarity.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/iwis/!svn/ver/265/testproject/src/model/aau/MEcoSimilarity.java
+END
+Rate.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/iwis/!svn/ver/62/testproject/src/model/aau/Rate.java
+END
+Grounding.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/iwis/!svn/ver/2/testproject/src/model/aau/Grounding.java
+END

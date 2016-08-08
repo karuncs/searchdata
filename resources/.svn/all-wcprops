@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/iwis/!svn/ver/2/testproject/resources
+END
+components.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/iwis/!svn/ver/2/testproject/resources/components.properties
+END
+seam-gen.reveng.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/iwis/!svn/ver/2/testproject/resources/seam-gen.reveng.xml
+END
+seam.properties
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/iwis/!svn/ver/2/testproject/resources/seam.properties
+END
+resource.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/iwis/!svn/ver/310/testproject/resources/resource.properties
+END
+import-dev.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/iwis/!svn/ver/2/testproject/resources/import-dev.sql
+END
+messages_en.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/iwis/!svn/ver/2/testproject/resources/messages_en.properties
+END
+iris.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/iwis/!svn/ver/259/testproject/resources/iris.txt
+END
+testproject-dev-ds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/iwis/!svn/ver/259/testproject/resources/testproject-dev-ds.xml
+END
+import-test.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/iwis/!svn/ver/2/testproject/resources/import-test.sql
+END
+test.dat
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/iwis/!svn/ver/256/testproject/resources/test.dat
+END
+security.drl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/iwis/!svn/ver/2/testproject/resources/security.drl
+END
+messages_fr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/iwis/!svn/ver/2/testproject/resources/messages_fr.properties
+END
+testproject-dev-ds.server.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/iwis/!svn/ver/236/testproject/resources/testproject-dev-ds.server.xml
+END
+file_properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/iwis/!svn/ver/2/testproject/resources/file_properties.xml
+END
+setup.properties
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/iwis/!svn/ver/2/testproject/resources/setup.properties
+END
+Umatrix.out
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/iwis/!svn/ver/259/testproject/resources/Umatrix.out
+END
+messages_tr.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/iwis/!svn/ver/2/testproject/resources/messages_tr.properties
+END
+import-prod.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/iwis/!svn/ver/2/testproject/resources/import-prod.sql
+END
+messages_de.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/iwis/!svn/ver/2/testproject/resources/messages_de.properties
+END
+messages_bg.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/iwis/!svn/ver/2/testproject/resources/messages_bg.properties
+END
+testproject-prod-ds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/iwis/!svn/ver/204/testproject/resources/testproject-prod-ds.xml
+END
+file_properties2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/iwis/!svn/ver/2/testproject/resources/file_properties2.xml
+END
+testproject-dev-ds.local.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/iwis/!svn/ver/236/testproject/resources/testproject-dev-ds.local.xml
+END
+iris.data
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/iwis/!svn/ver/259/testproject/resources/iris.data
+END

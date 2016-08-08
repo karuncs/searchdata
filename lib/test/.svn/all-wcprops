@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/iwis/!svn/ver/2/testproject/lib/test
+END
+hibernate-all.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/iwis/!svn/ver/2/testproject/lib/test/hibernate-all.jar
+END
+jboss-embedded-all.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/iwis/!svn/ver/2/testproject/lib/test/jboss-embedded-all.jar
+END
+thirdparty-all.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/iwis/!svn/ver/2/testproject/lib/test/thirdparty-all.jar
+END

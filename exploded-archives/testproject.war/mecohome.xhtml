@@ -1,0 +1,181 @@
+<!DOCTYPE composition PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+                      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<ui:composition xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:s="http://jboss.com/products/seam/taglib"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:ice="http://www.icesoft.com/icefaces/component"
+	template="layout/mecotemplate.xhtml">
+
+	<ui:define name="body">
+
+		<h:messages styleClass="message" />
+		<!--<h1 style="FONT-FAMILY: '#GungSeo';">M-Eco Medical EcoSystem</h1>-->
+		<div align="center"><ice:form id="loginFormId">
+
+			<ice:panelGroup id="searchPanelGroupId"
+				styleClass="formBorderHighlight">
+				<table width="100%" border="0" cellspacing="0" cellpadding="0"
+					align="center">
+					<tr>
+						<td class="mecoBanner"><ice:outputText id="searchTextId"
+							value="" /></td>
+					</tr>
+				</table>
+				<!-- <p>Please enter your search query</p>-->
+				<div class="dialog"><h:panelGrid id="searchPanelGridId"
+					columns="3" rowClasses="prop" columnClasses="name,value"
+					align="center">
+					<table>
+						<tr>
+
+							<td width="100%"><h:outputLabel for="searchQuery"
+								align="center">
+								<h2>Please enter your search query:</h2>
+							</h:outputLabel></td>
+						</tr>
+						<tr>
+							<td width="700px" align="right"><h:inputText
+								id="searchQueryId" value="#{searchAction.searchQuery}"
+								size="100" style="border: 2px solid #FFCC00;" /></td>
+							<td width="674px" align="left"><h:commandButton
+								type="button" id="searchButtonId"
+								action="#{searchAction.search()}" image="img/SearchButton.gif"
+								class="addButton" /></td>
+
+							<td width="674px" align="left">
+								<!--  <s:span id="checkSpan"
+								rendered="#{searchAction.searchResults.size() >= 0}">-->
+								<h:outputText value="Cluster View" />
+								
+								<!--<h:selectBooleanCheckbox title="Cluster Search Results" value="#{searchAction.showCluster}" id="checkboxID" />-->
+								
+                                <ice:selectBooleanCheckbox partialSubmit="true" immediate="true" value="false" id="showCluster" valueChangeListener="#{searchAction.changeSelection}"/> 								
+								
+								
+								
+							<!-- </s:span> -->
+							</td>
+						</tr>
+					</table>
+				</h:panelGrid></div>
+				<!--<div class="actionButtons">
+            <h:commandButton id="searchButtonId" value="Search" action="#{searchAction.search()}"/>
+        </div>-->
+
+			</ice:panelGroup>
+			<div style="overflow: auto; width: 100%;" id="mainSearchId">
+			<table style="margin-left: 5px">
+				<tr>
+					<td width="690px" style="margin-left: 5px; vertical-align: top;"><s:span id="mySearchSpan"
+						rendered="#{searchAction.searchResults.size() > 0 and !searchAction.showCluster}">
+
+						<h:dataTable id="searchTable" columns="2" var="result"
+							value="#{searchAction.searchResults}">
+							<h:column>
+								<f:facet name="header">
+									<h:outputText value="Rank" class="outputTextHeader" />
+								</f:facet>
+								<h:outputText value="#{result.rank}" class="outputTextContent" />
+							</h:column>
+
+							<h:column>
+
+								<f:facet name="header">
+
+									<h:outputText value="Search results of regular query"
+										class="outputTextHeader" />
+								</f:facet>
+								<h:outputLink value="#{result.resource.link}"><h:outputText value="#{result.resource.title}"
+										class="outputTextTitle"/>
+																			
+								</h:outputLink>
+								<br/><h:outputText value="#{result.highlight}" escape="false"></h:outputText>
+																	
+									
+							</h:column>
+							<!--
+							<h:column>
+								<f:facet name="header">
+									<h:outputText value="Tags Text" class="outputTextHeader" />
+								</f:facet>
+								<h:outputText value="#{result.resource.tagsText}" class="outputTextContent"></h:outputText>
+							</h:column>	
+							-->
+						</h:dataTable>
+					</s:span> <s:span id="clusterSearchSpan"
+						rendered="#{searchAction.showCluster and searchAction.searchResults.size() > 0}">
+						<ice:panelGroup>
+							<ice:tree id="tree" value="#{clusterWidget.treeModel}" var="item"
+								hideRootNode="false" hideNavigation="false"
+								imageDir="./xmlhttp/css/xp/css-images/">
+								<ice:treeNode>
+									<f:facet name="content">
+										<ice:panelGroup style="display: inline">
+											<ice:commandLink
+												actionListener="#{clusterWidget.clusterNodeSelected}">
+												<f:param name="clusterId"
+													value="#{item.userObject.clusterNode.tagKeys}" />
+												<ice:outputText id="TreeNode"
+													value="#{item.userObject.text}" />
+											</ice:commandLink>
+
+										</ice:panelGroup>
+									</f:facet>
+								</ice:treeNode>
+							</ice:tree>
+						</ice:panelGroup>
+
+					</s:span></td>
+
+					<td width="690px" style="padding-left: 5px; margin-left: 5px; vertical-align: top;"><s:span id="mySearchNeighbourSpan"
+						rendered="#{searchAction.searchResultsNeighbour.size() > 0}">
+
+						<h:dataTable id="searchNeighbourTable" columns="2"
+							var="resultNeighbour"
+							value="#{searchAction.searchResultsNeighbour}">
+							<h:column>
+								<f:facet name="header">
+									<h:outputText value="Rank" class="outputTextHeader" />
+								</f:facet>
+								<h:outputText value="#{resultNeighbour.rank}"
+									class="outputTextContent"></h:outputText>
+							</h:column>
+
+							<h:column>
+								<f:facet name="header">
+									<h:outputText value="#{searchAction.expandedQuery}"
+										class="outputTextHeader" />
+								</f:facet>
+								<h:outputLink value="#{resultNeighbour.resource.link}"><h:outputText value="#{resultNeighbour.resource.title}"
+										class="outputTextTitle" />
+								</h:outputLink>
+								<br/><h:outputText value="#{resultNeighbour.highlight}" escape="false"></h:outputText>
+								<br/><h:outputLink value="#"><h:outputText value="Like" 
+									class="outputSmallText" />
+								</h:outputLink> | <h:outputLink value="#"><h:outputText value="Dislike" 
+									class="outputSmallText" />
+								</h:outputLink>
+							</h:column>
+							<!--<h:column>
+								<f:facet name="header">
+									<h:outputText value="Tags Text" class="outputTextHeader" />
+								</f:facet>
+								<h:outputText value="#{resultNeighbour.resource.tagsText}" class="outputTextContent"></h:outputText>
+							</h:column>	
+							 -->
+						</h:dataTable>
+					</s:span></td>
+				</tr>
+				<tr>
+					<td><s:span id="myNonSearchSpan"
+						rendered="#{searchAction.searchResults.size() == 0}">
+						<h:outputText value="No Search Results." />
+					</s:span></td>
+				</tr>
+			</table>
+			</div>
+		</ice:form></div>
+	</ui:define>
+</ui:composition>

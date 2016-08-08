@@ -1,0 +1,91 @@
+END
+testproject.launch
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/iwis/!svn/ver/2/testproject/testproject.launch
+END
+seam-gen.local.properties
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/iwis/!svn/ver/239/testproject/seam-gen.local.properties
+END
+debug-jboss-testproject.launch
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/iwis/!svn/ver/2/testproject/debug-jboss-testproject.launch
+END
+deployed-jars-ear.list
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/iwis/!svn/ver/319/testproject/deployed-jars-ear.list
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/iwis/!svn/ver/2/testproject/.project
+END
+seam-gen.properties
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/iwis/!svn/ver/166/testproject/seam-gen.properties
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/iwis/!svn/ver/2/testproject/build.properties
+END
+build-prod.properties
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/iwis/!svn/ver/2/testproject/build-prod.properties
+END
+hibernate-console.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/iwis/!svn/ver/2/testproject/hibernate-console.properties
+END
+seam-gen.server.properties
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/iwis/!svn/ver/239/testproject/seam-gen.server.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/iwis/!svn/ver/244/testproject/build.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/iwis/!svn/ver/337/testproject/.classpath
+END
+deployed-jars-war.list
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/iwis/!svn/ver/2/testproject/deployed-jars-war.list
+END
+build-dev.properties
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/iwis/!svn/ver/2/testproject/build-dev.properties
+END
+explode.launch
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/iwis/!svn/ver/2/testproject/explode.launch
+END

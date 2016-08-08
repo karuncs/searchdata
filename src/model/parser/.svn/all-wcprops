@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/iwis/!svn/ver/265/testproject/src/model/parser
+END
+UrbanParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/iwis/!svn/ver/2/testproject/src/model/parser/UrbanParser.java
+END
+SimParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/iwis/!svn/ver/2/testproject/src/model/parser/SimParser.java
+END
+DiggParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/iwis/!svn/ver/265/testproject/src/model/parser/DiggParser.java
+END
+FlickrParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/iwis/!svn/ver/265/testproject/src/model/parser/FlickrParser.java
+END
+ExtractPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/iwis/!svn/ver/60/testproject/src/model/parser/ExtractPage.java
+END
+CopyOfDeliParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/iwis/!svn/ver/2/testproject/src/model/parser/CopyOfDeliParser.java
+END
+DeliParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/iwis/!svn/ver/2/testproject/src/model/parser/DeliParser.java
+END
+ExtremmingTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/iwis/!svn/ver/60/testproject/src/model/parser/ExtremmingTag.java
+END
+HtmlTagExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/iwis/!svn/ver/133/testproject/src/model/parser/HtmlTagExtractor.java
+END
+HTMLPageExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/iwis/!svn/ver/121/testproject/src/model/parser/HTMLPageExtractor.java
+END
+KiWiDeliParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/iwis/!svn/ver/265/testproject/src/model/parser/KiWiDeliParser.java
+END

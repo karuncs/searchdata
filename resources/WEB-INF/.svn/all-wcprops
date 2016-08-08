@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/iwis/!svn/ver/2/testproject/resources/WEB-INF
+END
+faces-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/iwis/!svn/ver/2/testproject/resources/WEB-INF/faces-config.xml
+END
+components.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/iwis/!svn/ver/2/testproject/resources/WEB-INF/components.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/iwis/!svn/ver/2/testproject/resources/WEB-INF/web.xml
+END
+pages.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/iwis/!svn/ver/2/testproject/resources/WEB-INF/pages.xml
+END

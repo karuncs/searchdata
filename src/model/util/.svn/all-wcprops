@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/iwis/!svn/ver/298/testproject/src/model/util
+END
+FileUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/iwis/!svn/ver/298/testproject/src/model/util/FileUtils.java
+END
+GratStringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/iwis/!svn/ver/2/testproject/src/model/util/GratStringUtil.java
+END
+PropertyUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/iwis/!svn/ver/87/testproject/src/model/util/PropertyUtil.java
+END
+ProjectUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/iwis/!svn/ver/2/testproject/src/model/util/ProjectUtil.java
+END
+StringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/iwis/!svn/ver/364/testproject/src/model/util/StringUtils.java
+END

@@ -1,0 +1,43 @@
+<!DOCTYPE composition PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+                      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<ui:composition xmlns="http://www.w3.org/1999/xhtml"
+                xmlns:s="http://jboss.com/products/seam/taglib"
+                xmlns:ui="http://java.sun.com/jsf/facelets"
+                xmlns:f="http://java.sun.com/jsf/core"
+                xmlns:h="http://java.sun.com/jsf/html"
+		    	xmlns:rich="http://richfaces.org/rich"
+		    	xmlns:a="http://richfaces.org/a4j"
+				xmlns:ice="http://www.icesoft.com/icefaces/component"
+                template="layout/template.xhtml">
+               
+<link href="./xmlhttp/css/xp/xp.css" rel="stylesheet" type="text/css"/>
+	            
+<ui:define name="body">
+<h:messages styleClass="message"/>	
+<ice:form id="tagClusterFormId">
+
+			<h2>Tag Cluster Menu</h2>
+                <ice:panelGroup>
+	                
+	                     <ice:tree id="tree"
+	                               value="#{clusterWidget.treeModel}"
+	                               var="item"
+	                               hideRootNode="false"
+	                               hideNavigation="false"
+	                               imageDir="./xmlhttp/css/xp/css-images/" >
+			                         <ice:treeNode>
+			                             <f:facet name="content">
+			                                 <ice:panelGroup style="display: inline">
+								                    <ice:commandLink actionListener="#{clusterWidget.clusterNodeSelected}">
+								                        <f:param name="clusterId" value="#{item.userObject.clusterNode.tagKeys}" />
+								                        <ice:outputText id="TreeNode" value="#{item.userObject.text}"/>
+								                    </ice:commandLink>			                                     
+			                                     
+			                                 </ice:panelGroup>
+			                             </f:facet>
+			                         </ice:treeNode>
+	                     </ice:tree>
+                 </ice:panelGroup>
+</ice:form>
+</ui:define> 
+</ui:composition>

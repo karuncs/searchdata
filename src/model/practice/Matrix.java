@@ -1,0 +1,67 @@
+package practice;
+
+public class Matrix {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		//array1 = new int[10];
+	
+	int array[][] = {{5,6,7},{4,8,9}};
+	//int array4[][]={{3,4,5},{3,4,5}};
+    int array1[][] = {{6,4},{5,7},{1,1}};
+    
+    
+    
+    
+    int array2[][] = new int[3][3];
+   // int array5[][] = new int[3][3];
+    int x= array.length;
+    System.out.println("the lenght of row is :"+ array.length);
+    System.out.println("the lenght of column is:"+ array[1].length);
+    System.out.println("Matrix 1 : ");
+      for(int i = 0; i < x; i++) {
+      for(int j = 0; j <= x; j++) {
+        System.out.print(" "+ array[i][j]);
+      }
+    System.out.println();
+    }  
+    int y= array1.length;
+    System.out.println("Matrix 2 : ");
+      for(int i = 0; i < y; i++) {
+      for(int j = 0; j < y-1; j++) {
+        System.out.print(" "+array1[i][j]);
+      }  
+    System.out.println();
+    }
+//      for (int i=0; i<=x;i++){
+//    	  for (int j=0; j<=x; j++) {
+//    		  for(int k=0;k<=x;k++){
+//    			  array5[i][j]=array[i][k]+array4[j][k];
+//    		  }
+//    	 
+//    		  
+//    	  }
+//    	  }
+      //System.out.println(" "+array5[i][j]);
+    
+      for(int i = 0; i < x; i++) {
+      for(int j = 0; j < y-1; j++) {
+        for(int k = 0; k < y; k++){
+          
+          array2[i][j] += array[i][k]*array1[k][j];
+        }
+      }  
+     }
+    System.out.println("Multiply of both matrix : ");
+    for(int i = 0; i < x; i++) {
+      for(int j = 0; j < y-1; j++) {
+        System.out.print(" "+array2[i][j]);
+      }  
+    System.out.println();
+    }
+  }
+}

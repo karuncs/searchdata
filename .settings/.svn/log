@@ -1,0 +1,50 @@
+<modify-entry
+   name="org.hibernate.eclipse.console.prefs"
+   present-props=""
+   has-prop-mods="false"
+   has-props="false"/>
+<modify-entry
+   committed-rev="2"
+   committed-date="2010-03-02T13:10:50.403286Z"
+   name="org.hibernate.eclipse.console.prefs"
+   last-author="freddurao"
+   uuid="a885dc5a-b2fe-444d-a6de-c8fc8ed2aed1"/>
+<modify-wcprop
+   name="org.hibernate.eclipse.console.prefs"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svnroot/iwis/!svn/ver/2/testproject/.settings/org.hibernate.eclipse.console.prefs"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="org.hibernate.eclipse.console.prefs"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="2"/>
+<cp-and-translate
+   dest="org.hibernate.eclipse.console.prefs"
+   name=".svn/tmp/text-base/org.hibernate.eclipse.console.prefs.svn-base"/>
+<mv
+   dest=".svn/text-base/org.hibernate.eclipse.console.prefs.svn-base"
+   name=".svn/tmp/text-base/org.hibernate.eclipse.console.prefs.svn-base"/>
+<readonly
+   name=".svn/text-base/org.hibernate.eclipse.console.prefs.svn-base"/>
+<modify-entry
+   name="org.hibernate.eclipse.console.prefs"
+   checksum="313c1e6bce296d99fe8eee8ef019f866"/>
+<modify-entry
+   name="org.hibernate.eclipse.console.prefs"
+   text-time="working"/>
+<modify-entry
+   name="org.hibernate.eclipse.console.prefs"
+   working-size="working"/>
+<modify-entry
+   committed-rev="2"
+   committed-date="2010-03-02T13:10:50.403286Z"
+   name=""
+   last-author="freddurao"
+   uuid="a885dc5a-b2fe-444d-a6de-c8fc8ed2aed1"/>
+<modify-wcprop
+   name=""
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svnroot/iwis/!svn/ver/2/testproject/.settings"/>

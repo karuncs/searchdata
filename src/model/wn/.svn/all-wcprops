@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/iwis/!svn/ver/2/testproject/src/model/wn
+END
+Synonyms.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/iwis/!svn/ver/2/testproject/src/model/wn/Synonyms.java
+END
+WordNetHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/iwis/!svn/ver/2/testproject/src/model/wn/WordNetHelper.java
+END
+SynonymsEqui.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/iwis/!svn/ver/2/testproject/src/model/wn/SynonymsEqui.java
+END
+SynReplace.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/iwis/!svn/ver/2/testproject/src/model/wn/SynReplace.java
+END
+WordNetDemo.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/iwis/!svn/ver/2/testproject/src/model/wn/WordNetDemo.java
+END
+WordNetFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/iwis/!svn/ver/2/testproject/src/model/wn/WordNetFinder.java
+END
+SemanticDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/iwis/!svn/ver/2/testproject/src/model/wn/SemanticDistance.java
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/iwis/!svn/ver/297/testproject/src/action/aau
+END
+ClusterService.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/iwis/!svn/ver/358/testproject/src/action/aau/ClusterService.java
+END
+SearchAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/iwis/!svn/ver/363/testproject/src/action/aau/SearchAction.java
+END
+ClusterServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/iwis/!svn/ver/362/testproject/src/action/aau/ClusterServiceImpl.java
+END
+PersistenceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/iwis/!svn/ver/361/testproject/src/action/aau/PersistenceService.java
+END
+PersonalizedSearchService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/iwis/!svn/ver/225/testproject/src/action/aau/PersonalizedSearchService.java
+END
+PersistenceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/iwis/!svn/ver/363/testproject/src/action/aau/PersistenceServiceImpl.java
+END
+SimilarityService.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/iwis/!svn/ver/55/testproject/src/action/aau/SimilarityService.java
+END
+ManagerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/iwis/!svn/ver/311/testproject/src/action/aau/ManagerAction.java
+END
+EvaluationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/iwis/!svn/ver/225/testproject/src/action/aau/EvaluationService.java
+END
+PersonalizedSearchServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/iwis/!svn/ver/243/testproject/src/action/aau/PersonalizedSearchServiceImpl.java
+END
+EvaluationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/iwis/!svn/ver/245/testproject/src/action/aau/EvaluationServiceImpl.java
+END
+IndexField.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/iwis/!svn/ver/262/testproject/src/action/aau/IndexField.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/iwis/!svn/ver/298/testproject/src/model/cluster
+END
+SpectralCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/iwis/!svn/ver/185/testproject/src/model/cluster/SpectralCluster.java
+END
+LinearRegression.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/iwis/!svn/ver/220/testproject/src/model/cluster/LinearRegression.java
+END
+MagicSquareExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/iwis/!svn/ver/124/testproject/src/model/cluster/MagicSquareExample.java
+END
+SpectralClusteringModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/iwis/!svn/ver/298/testproject/src/model/cluster/SpectralClusteringModel.java
+END

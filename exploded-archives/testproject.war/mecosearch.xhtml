@@ -1,0 +1,87 @@
+<!DOCTYPE composition PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+                      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<ui:composition xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:s="http://jboss.com/products/seam/taglib"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:ice="http://www.icesoft.com/icefaces/component"
+	template="layout/mecotemplate.xhtml">
+
+	<ui:define name="body">
+
+		<h:messages styleClass="message" />
+
+		<ice:form id="loginFormId">
+			<ice:panelGroup id="searchPanelGroupId"	styleClass="formBorderHighlight">
+				<table width="80%" border="0" cellspacing="0" cellpadding="0" align="center" >
+					<tr>
+						<td>
+						<!--  
+						<table width="80%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td class="iceDatTblColHdr2"><ice:outputText
+									id="searchTextId" value="" /></td>
+							</tr>
+						</table>
+						-->
+						<table width="80%" border="0" cellspacing="0" cellpadding="0" align="center">
+							<tr>
+								<td class="topMenu"><ice:outputText
+									id="searchTextId" value="" /></td>
+									
+																	
+							</tr>
+						</table>
+						
+						 <!-- <p>Please enter your search query</p>-->
+						
+						<div class="dialog" align="center" >
+						<h:panelGrid id="searchPanelGridId"
+							columns="2" rowClasses="prop" columnClasses="name,value" >
+							<h:outputLabel for="searchQuery">Query</h:outputLabel>
+							<h:inputText id="searchQueryId"
+								value="#{searchAction.searchQuery}" />
+
+						</h:panelGrid></div>
+						
+						<div class="actionButtons"><h:commandButton id="searchButtonId"
+				value="Search" action="#{searchAction.search1()}" /></div>
+						
+						</td>
+					</tr>
+				</table>
+			</ice:panelGroup>
+			
+
+			
+							<s:span id="mySearchSpan" rendered="#{searchAction.searchResults.size() > 0}">
+								<h:dataTable id="searchTable" columns="1" var="result"
+									value="#{searchAction.searchResults}">
+									<h:column>
+										<h:outputText value="#{result.resource.description}"></h:outputText>
+									</h:column>
+									<h:column>
+										<h:outputText value="#{result.resource.tagsText}"></h:outputText>
+									</h:column>
+								</h:dataTable>
+								
+					</s:span> <s:span id="mySearchNeighbourSpan"
+						rendered="#{searchAction.searchResultsNeighbour.size() > 0}">
+						<h:dataTable id="searchNeighbourTable" columns="1"
+							var="resultNeighbour"
+							value="#{searchAction.searchResultsNeighbour}">
+							<h:column>
+								<h:outputText value="#{resultNeighbour.resource.description}"></h:outputText>
+							</h:column>
+							<h:column>
+								<h:outputText value="#{resultNeighbour.resource.tagsText}"></h:outputText>
+							</h:column>
+						</h:dataTable>
+					</s:span> <s:span id="myNonSearchSpan"
+						rendered="#{searchAction.searchResults.size() == 0}">
+						<h:outputText value="No Search Results." />
+					</s:span>
+		</ice:form>
+	</ui:define>
+</ui:composition>

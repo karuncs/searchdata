@@ -1,0 +1,81 @@
+<!DOCTYPE composition PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+                      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<ui:composition xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:s="http://jboss.com/products/seam/taglib"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:a="http://richfaces.org/a4j"
+	xmlns:rich="http://richfaces.org/rich" template="layout/template.xhtml">
+
+	<ui:define name="body">
+		<h1 style="FONT-FAMILY: '#GungSeo';">IWIS PLATFORM</h1>
+		<rich:panel>
+			<h:form>
+				<h:panelGrid columns="2">
+				
+				<!--
+				
+				    	               UNCOMMENT TO USER THESE ACTION FUNCTIONS
+				    	
+					<h:commandButton  action="#{managerAction.saveRelevantResources}" value="save Relevant Resources"/>
+
+				    <h:commandButton  action="#{managerAction.evaluateMeco}" value="evaluate meco"/>
+				    
+				   <h:commandButton  action="#{managerAction.getConsineSimilarity}" value="compute cosine similarity"/>
+				   
+				   <h:commandButton  action="#{managerAction.computeTagFrequency}" value="Calcualte Tag Frequency"/>
+				   
+				    <h:commandButton  action="#{managerAction.computeTagNeighbourFrequency}" value="Calcualte Tag Neighbour Frequency"/>
+				   
+				   <h:commandButton  action="#{managerAction.computeTagWeight}" value="Calcualte Tag Popularity/Weight"/>
+					
+					<h:commandButton  action="#{managerAction.computeTagRepresentativeness}" value="Calculate Tag rep"/>
+					
+					<h:commandButton  action="#{managerAction.calculateMecoSimilarity}" value="Calculate MEco Similarity"/>
+					
+					<h:commandButton  action="#{managerAction.computeTagNeibours}" value="Compute MEco Neighbours"/>
+					
+					<h:commandButton  action="#{managerAction.saveXML}" value="saveXMl"/>
+
+					<h:commandButton  action="#{managerAction.extractHTMLContentAndSave}" value="Extract HTML Content And Save"/>
+
+					<h:commandButton  action="#{managerAction.userByResources}" value="userByResources"/>
+					
+					<h:commandButton  action="#{managerAction.computeSearch}" value="compute Search"/>
+					
+					<h:commandButton  action="#{managerAction.indexMecoData}" value="index MecoData"/>
+					
+					<h:commandButton  action="#{managerAction.saveMecoData}" value="saveMecoData"/>
+				    
+					<h:commandButton  action="#{managerAction.saveMockup}" value="Save Mockup Data"/>
+				   -->
+				   
+				   <h:commandButton  action="#{managerAction.evaluateMeco}" value="evaluate meco"/>
+				   
+                   <h:commandButton  action="#{clusterWidget.calculateSpectralCluster()}" value="Compute Tag Cluster"/>				   
+				   
+				   <h:commandButton  action="#{managerAction.saveMockup}" value="Save Mockup Data"/>
+
+					<h:commandButton  action="#{managerAction.evaluateMovieLensIndexSearch}" value="Evaluate MovieLens Search"/>
+
+					<h:commandButton  action="#{managerAction.generateMovieLensIndex}" value="generateMovieLensIndex"/>
+					
+					<h:commandButton  action="#{managerAction.generateTwitterIndex}" value="generateTwitterIndex"/>
+					
+					<h:commandButton  action="#{managerAction.computeUserPreference}" value="Compute User Preference"/>
+					
+					<h:commandButton  action="#{managerAction.computeTermFrequency}" value="Compute Term Frequency"/>
+															 
+					<h:commandButton  action="#{managerAction.computeTagNeighbourFrequency}" value="Compute Tag Neighbour Frequency"/>	
+					
+					<h:commandButton  action="#{managerAction.generateTagNeighbors}" value="Generate Tag Neighbours for all tags"/>
+									
+
+				</h:panelGrid>
+			</h:form>
+		</rich:panel>
+
+
+	</ui:define>
+</ui:composition>

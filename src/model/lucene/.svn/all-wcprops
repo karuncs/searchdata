@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/iwis/!svn/ver/321/testproject/src/model/lucene
+END
+HelloLucene.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/iwis/!svn/ver/55/testproject/src/model/lucene/HelloLucene.java
+END
+LuceneManagerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/iwis/!svn/ver/328/testproject/src/model/lucene/LuceneManagerService.java
+END
+LuceneManagerServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/iwis/!svn/ver/344/testproject/src/model/lucene/LuceneManagerServiceImpl.java
+END

@@ -1,0 +1,995 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/iwis/!svn/ver/319/testproject/lib
+END
+axis.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/iwis/!svn/ver/2/testproject/lib/axis.jar
+END
+ejb-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/iwis/!svn/ver/2/testproject/lib/ejb-api.jar
+END
+mvel14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/iwis/!svn/ver/2/testproject/lib/mvel14.jar
+END
+jboss-seam-pdf.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/iwis/!svn/ver/2/testproject/lib/jboss-seam-pdf.jar
+END
+jta.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/iwis/!svn/ver/2/testproject/lib/jta.jar
+END
+jboss-el.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/iwis/!svn/ver/2/testproject/lib/jboss-el.jar
+END
+log4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/iwis/!svn/ver/2/testproject/lib/log4j.jar
+END
+file_properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/iwis/!svn/ver/2/testproject/lib/file_properties.xml
+END
+cglib.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/iwis/!svn/ver/2/testproject/lib/cglib.jar
+END
+jboss-logging-log4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/iwis/!svn/ver/2/testproject/lib/jboss-logging-log4j.jar
+END
+ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/iwis/!svn/ver/2/testproject/lib/ant.jar
+END
+arq.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/iwis/!svn/ver/2/testproject/lib/arq.jar
+END
+freemarker.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/iwis/!svn/ver/2/testproject/lib/freemarker.jar
+END
+gwt-servlet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/iwis/!svn/ver/2/testproject/lib/gwt-servlet.jar
+END
+iri.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/iwis/!svn/ver/2/testproject/lib/iri.jar
+END
+drej.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/iwis/!svn/ver/216/testproject/lib/drej.jar
+END
+jboss-seam-debug.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/iwis/!svn/ver/2/testproject/lib/jboss-seam-debug.jar
+END
+commons-collections.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/iwis/!svn/ver/2/testproject/lib/commons-collections.jar
+END
+jaxrpc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/iwis/!svn/ver/2/testproject/lib/jaxrpc.jar
+END
+drools-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/iwis/!svn/ver/2/testproject/lib/drools-core.jar
+END
+javabuilder.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/iwis/!svn/ver/196/testproject/lib/javabuilder.jar
+END
+jgroups.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/iwis/!svn/ver/2/testproject/lib/jgroups.jar
+END
+jboss-deployers-client-spi.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/iwis/!svn/ver/2/testproject/lib/jboss-deployers-client-spi.jar
+END
+filterbuilder.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/iwis/!svn/ver/2/testproject/lib/filterbuilder.jar
+END
+watson-client-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/iwis/!svn/ver/2/testproject/lib/watson-client-api.jar
+END
+lucene-similarity-2.3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/iwis/!svn/ver/2/testproject/lib/lucene-similarity-2.3.2.jar
+END
+log4j-1.2.15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/iwis/!svn/ver/2/testproject/lib/log4j-1.2.15.jar
+END
+hibernate-entitymanager.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/iwis/!svn/ver/2/testproject/lib/hibernate-entitymanager.jar
+END
+jboss-seam-ioc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/iwis/!svn/ver/2/testproject/lib/jboss-seam-ioc.jar
+END
+sax2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/iwis/!svn/ver/2/testproject/lib/sax2.jar
+END
+hsqldb.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/iwis/!svn/ver/2/testproject/lib/hsqldb.jar
+END
+antlr.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/iwis/!svn/ver/2/testproject/lib/antlr.jar
+END
+simpack-0.91-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/iwis/!svn/ver/2/testproject/lib/simpack-0.91-bin.jar
+END
+lucene-memory-2.3.2-javadoc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/iwis/!svn/ver/2/testproject/lib/lucene-memory-2.3.2-javadoc.jar
+END
+imap.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/iwis/!svn/ver/2/testproject/lib/imap.jar
+END
+jsf-facelets-1.1.14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/iwis/!svn/ver/319/testproject/lib/jsf-facelets-1.1.14.jar
+END
+weka.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/iwis/!svn/ver/2/testproject/lib/weka.jar
+END
+slf4j-api-1.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/iwis/!svn/ver/2/testproject/lib/slf4j-api-1.5.0.jar
+END
+slf4j-api-1.5.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/iwis/!svn/ver/2/testproject/lib/slf4j-api-1.5.6.jar
+END
+antlr-runtime.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/iwis/!svn/ver/2/testproject/lib/antlr-runtime.jar
+END
+testng.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/iwis/!svn/ver/2/testproject/lib/testng.jar
+END
+postgresql-8.4-701.jdbc4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/iwis/!svn/ver/34/testproject/lib/postgresql-8.4-701.jdbc4.jar
+END
+commons-beanutils-1.8.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/iwis/!svn/ver/319/testproject/lib/commons-beanutils-1.8.3.jar
+END
+h2-1.1.100.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/iwis/!svn/ver/3/testproject/lib/h2-1.1.100.jar
+END
+slf4j-log4j12-1.5.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/iwis/!svn/ver/2/testproject/lib/slf4j-log4j12-1.5.6.jar
+END
+mailapi.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/iwis/!svn/ver/2/testproject/lib/mailapi.jar
+END
+jfreechart.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/iwis/!svn/ver/2/testproject/lib/jfreechart.jar
+END
+janino.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/iwis/!svn/ver/2/testproject/lib/janino.jar
+END
+Clustering_Test.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/iwis/!svn/ver/295/testproject/lib/Clustering_Test.jar
+END
+jsf-impl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/iwis/!svn/ver/2/testproject/lib/jsf-impl.jar
+END
+runtime.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/iwis/!svn/ver/2/testproject/lib/runtime.jar
+END
+log4j-1.2.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/iwis/!svn/ver/2/testproject/lib/log4j-1.2.8.jar
+END
+just-ice.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/iwis/!svn/ver/319/testproject/lib/just-ice.jar
+END
+text.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/iwis/!svn/ver/2/testproject/lib/text.jar
+END
+junit-4.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/iwis/!svn/ver/2/testproject/lib/junit-4.1.jar
+END
+jboss-common-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/iwis/!svn/ver/2/testproject/lib/jboss-common-core.jar
+END
+hibernate-annotations.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/iwis/!svn/ver/2/testproject/lib/hibernate-annotations.jar
+END
+junit-4.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/iwis/!svn/ver/2/testproject/lib/junit-4.5.jar
+END
+commons-fileupload.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/iwis/!svn/ver/2/testproject/lib/commons-fileupload.jar
+END
+meldware-mailjmx.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/iwis/!svn/ver/2/testproject/lib/meldware-mailjmx.jar
+END
+hibernate-tools.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/iwis/!svn/ver/2/testproject/lib/hibernate-tools.jar
+END
+lucene-core-2.3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/iwis/!svn/ver/2/testproject/lib/lucene-core-2.3.2.jar
+END
+delicious-1.14.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/iwis/!svn/ver/2/testproject/lib/delicious-1.14.jar
+END
+jboss-system.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/iwis/!svn/ver/2/testproject/lib/jboss-system.jar
+END
+Jama-1.0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/iwis/!svn/ver/76/testproject/lib/Jama-1.0.2.jar
+END
+hibernate-commons-annotations.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/iwis/!svn/ver/2/testproject/lib/hibernate-commons-annotations.jar
+END
+lucene-highlighter.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/iwis/!svn/ver/73/testproject/lib/lucene-highlighter.jar
+END
+javassist.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/iwis/!svn/ver/2/testproject/lib/javassist.jar
+END
+json.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/iwis/!svn/ver/2/testproject/lib/json.jar
+END
+javaml-0.1.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/iwis/!svn/ver/250/testproject/lib/javaml-0.1.5.jar
+END
+wstx-asl-3.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/iwis/!svn/ver/2/testproject/lib/wstx-asl-3.0.0.jar
+END
+jbpm-jpdl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/iwis/!svn/ver/2/testproject/lib/jbpm-jpdl.jar
+END
+stax-api-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/iwis/!svn/ver/2/testproject/lib/stax-api-1.0.jar
+END
+icu4j_3_4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/iwis/!svn/ver/2/testproject/lib/icu4j_3_4.jar
+END
+push-server.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/iwis/!svn/ver/319/testproject/lib/push-server.jar
+END
+dsn.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/iwis/!svn/ver/2/testproject/lib/dsn.jar
+END
+saaj-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/iwis/!svn/ver/2/testproject/lib/saaj-api.jar
+END
+jboss-seam-remoting.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/iwis/!svn/ver/2/testproject/lib/jboss-seam-remoting.jar
+END
+icefaces-facelets.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/iwis/!svn/ver/319/testproject/lib/icefaces-facelets.jar
+END
+jsf-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/iwis/!svn/ver/2/testproject/lib/jsf-api.jar
+END
+groovy-all.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/iwis/!svn/ver/2/testproject/lib/groovy-all.jar
+END
+ajt-1.20.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/iwis/!svn/ver/251/testproject/lib/ajt-1.20.jar
+END
+commons-logging-1.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/iwis/!svn/ver/2/testproject/lib/commons-logging-1.0.4.jar
+END
+myadd.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/iwis/!svn/ver/195/testproject/lib/myadd.jar
+END
+hibernate.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/iwis/!svn/ver/2/testproject/lib/hibernate.jar
+END
+jsp-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/iwis/!svn/ver/2/testproject/lib/jsp-api.jar
+END
+wsdl4j-1.5.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/iwis/!svn/ver/2/testproject/lib/wsdl4j-1.5.1.jar
+END
+urlrewritefilter.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/iwis/!svn/ver/2/testproject/lib/urlrewritefilter.jar
+END
+jstl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/iwis/!svn/ver/2/testproject/lib/jstl.jar
+END
+dom4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/iwis/!svn/ver/2/testproject/lib/dom4j.jar
+END
+commons-discovery-0.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/iwis/!svn/ver/2/testproject/lib/commons-discovery-0.2.jar
+END
+pop3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/iwis/!svn/ver/2/testproject/lib/pop3.jar
+END
+htmlparser.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/iwis/!svn/ver/2/testproject/lib/htmlparser.jar
+END
+icefaces-comps.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/iwis/!svn/ver/319/testproject/lib/icefaces-comps.jar
+END
+core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/iwis/!svn/ver/2/testproject/lib/core.jar
+END
+commons-lang.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/iwis/!svn/ver/2/testproject/lib/commons-lang.jar
+END
+servlet-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/iwis/!svn/ver/2/testproject/lib/servlet-api.jar
+END
+persistence-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/iwis/!svn/ver/2/testproject/lib/persistence-api.jar
+END
+libsvm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/iwis/!svn/ver/2/testproject/lib/libsvm.jar
+END
+log4j-1.2.12.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/iwis/!svn/ver/2/testproject/lib/log4j-1.2.12.jar
+END
+jcommon.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/iwis/!svn/ver/2/testproject/lib/jcommon.jar
+END
+jboss-deployers-core-spi.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/iwis/!svn/ver/2/testproject/lib/jboss-deployers-core-spi.jar
+END
+flanagan.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/iwis/!svn/ver/169/testproject/lib/flanagan.jar
+END
+drools-compiler.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/iwis/!svn/ver/2/testproject/lib/drools-compiler.jar
+END
+asm-attrs.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/iwis/!svn/ver/2/testproject/lib/asm-attrs.jar
+END
+xercesImpl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/iwis/!svn/ver/2/testproject/lib/xercesImpl.jar
+END
+jena.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/iwis/!svn/ver/2/testproject/lib/jena.jar
+END
+jboss-seam-ui.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/iwis/!svn/ver/2/testproject/lib/jboss-seam-ui.jar
+END
+commons-digester.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/iwis/!svn/ver/2/testproject/lib/commons-digester.jar
+END
+asm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/iwis/!svn/ver/2/testproject/lib/asm.jar
+END
+mail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/iwis/!svn/ver/2/testproject/lib/mail.jar
+END
+jtidy.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/iwis/!svn/ver/2/testproject/lib/jtidy.jar
+END
+common.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/iwis/!svn/ver/2/testproject/lib/common.jar
+END
+jms.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/iwis/!svn/ver/2/testproject/lib/jms.jar
+END
+jdmp-complete-0.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/iwis/!svn/ver/253/testproject/lib/jdmp-complete-0.1.1.jar
+END
+slf4j-jdk14-1.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/iwis/!svn/ver/2/testproject/lib/slf4j-jdk14-1.5.0.jar
+END
+itext.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/iwis/!svn/ver/2/testproject/lib/itext.jar
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/iwis/!svn/ver/2/testproject/lib/commons-logging.jar
+END
+activation.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/iwis/!svn/ver/2/testproject/lib/activation.jar
+END
+flickrapi-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/iwis/!svn/ver/2/testproject/lib/flickrapi-1.1.jar
+END
+postgresql-8.4-701.jdbc3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/iwis/!svn/ver/30/testproject/lib/postgresql-8.4-701.jdbc3.jar
+END
+jboss-seam.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/iwis/!svn/ver/2/testproject/lib/jboss-seam.jar
+END
+jaxws-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/iwis/!svn/ver/2/testproject/lib/jaxws-api.jar
+END
+arq-extra.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/iwis/!svn/ver/2/testproject/lib/arq-extra.jar
+END
+hibernate-search.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/iwis/!svn/ver/2/testproject/lib/hibernate-search.jar
+END
+commons-logging-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/iwis/!svn/ver/2/testproject/lib/commons-logging-api.jar
+END
+el-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/iwis/!svn/ver/2/testproject/lib/el-api.jar
+END
+simmetrics_jar_v1_6_2_d07_02_07.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/iwis/!svn/ver/2/testproject/lib/simmetrics_jar_v1_6_2_d07_02_07.jar
+END
+jwnl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/iwis/!svn/ver/2/testproject/lib/jwnl.jar
+END
+jboss-jmx.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/iwis/!svn/ver/2/testproject/lib/jboss-jmx.jar
+END
+jboss-embedded-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/iwis/!svn/ver/2/testproject/lib/jboss-embedded-api.jar
+END
+jsr173_api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/iwis/!svn/ver/2/testproject/lib/jsr173_api.jar
+END
+concurrent.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/iwis/!svn/ver/2/testproject/lib/concurrent.jar
+END
+openrdf-sesame-2.1.3-onejar.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/iwis/!svn/ver/2/testproject/lib/openrdf-sesame-2.1.3-onejar.jar
+END
+jboss-seam-mail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/iwis/!svn/ver/2/testproject/lib/jboss-seam-mail.jar
+END
+hibernate-validator.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/iwis/!svn/ver/2/testproject/lib/hibernate-validator.jar
+END
+dbunit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/iwis/!svn/ver/2/testproject/lib/dbunit.jar
+END
+commons-httpclient-3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/iwis/!svn/ver/2/testproject/lib/commons-httpclient-3.0.jar
+END
+thumbelina.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/iwis/!svn/ver/2/testproject/lib/thumbelina.jar
+END
+jsr250-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/iwis/!svn/ver/2/testproject/lib/jsr250-api.jar
+END
+jboss-logging-spi.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/iwis/!svn/ver/2/testproject/lib/jboss-logging-spi.jar
+END
+portlet-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/iwis/!svn/ver/2/testproject/lib/portlet-api.jar
+END
+lucene-core-2.3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/iwis/!svn/ver/2/testproject/lib/lucene-core-2.3.1.jar
+END
+commons-math-1.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/iwis/!svn/ver/252/testproject/lib/commons-math-1.2.jar
+END
+lucene-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/iwis/!svn/ver/2/testproject/lib/lucene-core.jar
+END
+htmllexer.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/iwis/!svn/ver/2/testproject/lib/htmllexer.jar
+END
+meldware-mailapi.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/iwis/!svn/ver/2/testproject/lib/meldware-mailapi.jar
+END
+jboss-seam-gen.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/iwis/!svn/ver/2/testproject/lib/jboss-seam-gen.jar
+END
+Untitled3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/iwis/!svn/ver/286/testproject/lib/Untitled3.jar
+END
+bsh.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/iwis/!svn/ver/2/testproject/lib/bsh.jar
+END
+saaj.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/iwis/!svn/ver/2/testproject/lib/saaj.jar
+END
+lucene-memory-2.3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/iwis/!svn/ver/2/testproject/lib/lucene-memory-2.3.2.jar
+END
+jboss-cache.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/iwis/!svn/ver/2/testproject/lib/jboss-cache.jar
+END
+cglib-nodep.jar
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/iwis/!svn/ver/2/testproject/lib/cglib-nodep.jar
+END
+smtp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/iwis/!svn/ver/2/testproject/lib/smtp.jar
+END
+commons-codec-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/iwis/!svn/ver/2/testproject/lib/commons-codec-1.3.jar
+END
+quartz.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/iwis/!svn/ver/2/testproject/lib/quartz.jar
+END
+vecmath.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/iwis/!svn/ver/216/testproject/lib/vecmath.jar
+END
+jaxb-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/iwis/!svn/ver/2/testproject/lib/jaxb-api.jar
+END
+jsr181-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/iwis/!svn/ver/2/testproject/lib/jsr181-api.jar
+END
+commons-beanutils.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/iwis/!svn/ver/2/testproject/lib/commons-beanutils.jar
+END
+ant-antlr.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/iwis/!svn/ver/2/testproject/lib/ant-antlr.jar
+END
+backport-util-concurrent.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/iwis/!svn/ver/2/testproject/lib/backport-util-concurrent.jar
+END
+icefaces.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/iwis/!svn/ver/319/testproject/lib/icefaces.jar
+END
+spring.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/iwis/!svn/ver/2/testproject/lib/spring.jar
+END

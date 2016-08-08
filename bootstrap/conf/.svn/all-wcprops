@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/iwis/!svn/ver/2/testproject/bootstrap/conf
+END
+bootstrap-beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/iwis/!svn/ver/2/testproject/bootstrap/conf/bootstrap-beans.xml
+END
+jbossjta-properties.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/iwis/!svn/ver/2/testproject/bootstrap/conf/jbossjta-properties.xml
+END
+login-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/iwis/!svn/ver/2/testproject/bootstrap/conf/login-config.xml
+END
+jboss-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/iwis/!svn/ver/2/testproject/bootstrap/conf/jboss-service.xml
+END

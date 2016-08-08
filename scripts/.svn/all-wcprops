@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/iwis/!svn/ver/19/testproject/scripts
+END
+M-EcoDataSet.sql
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/iwis/!svn/ver/31/testproject/scripts/M-EcoDataSet.sql
+END
+resourceandtag.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/iwis/!svn/ver/108/testproject/scripts/resourceandtag.sql
+END
+MovieLensDataSet.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/iwis/!svn/ver/19/testproject/scripts/MovieLensDataSet.sql
+END
+resource.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/iwis/!svn/ver/96/testproject/scripts/resource.sql
+END
+tag.sql
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/iwis/!svn/ver/97/testproject/scripts/tag.sql
+END

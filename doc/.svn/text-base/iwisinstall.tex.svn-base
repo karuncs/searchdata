@@ -1,0 +1,80 @@
+% *****************************************************************
+% Title..: Step by step IWIS platform installation HOW-TO
+% Created: 05/05/2010
+%*****************************************************************
+% [Ricardo on 05/05/2010]: 
+%	- Added updated links to download the tools to setup the platform
+%	- Formatted the document to TeX 
+%*****************************************************************
+
+\title{Step by step IWIS platform installation HOW-TO}
+
+\begin{document}
+\maketitle
+
+\section{Download the tools}
+
+Before set up, you will to download the following:
+
+\begin{itemize}
+	\item Java SDK 6 from http://java.sun.com/javase/downloads/widget/jdk6.jsp
+	\item Eclipse Java EE edition from http://www.eclipse.org/downloads/
+	\item jboss 4.2.3 from http://www.jboss.org/jbossas/downloads.html
+	\item Apache Ant (Get the latest version from http://ant.apache.org/bindownload.cgi)
+	\item Subversion plugin for Eclipse: Subclipse. Try: http://subclipse.tigris.org/update_1.6.x (you have to tick all of the choices, when installing the plugin)
+	\item Postgre database at http://www.postgresql.org/download/ Version 8.4. When installing postgres, we suggest create password 'iwis' for the user 'postgres'
+\end{itemize}
+
+\section{Setup the project}
+
+1. Checkout the project: https://iwis.svn.sourceforge.net/svnroot/iwis/testproject
+2. Edit your environment variables JBOSS_HOME, ANT_HOME and JAVA_HOME. For example:
+\begin{itemize}
+	\item JBOSS_HOME=C:\\jboss...
+	\item ANT_HOME=C:\\Program Files\\apache-ant-1.8.0
+	\item JAVA_HOME=C:\\Program Files\\java\\jdk6...
+\end{itemize}
+
+3. Update your path variable by adding the following at the end of it:	
+;JBOSS_HOME\bin;JAVA_HOME\bin;ANT_HOME\bin;
+
+\textbf{IMPORTANT: Do not put your jboss folder on folders with spaces in their names (e.g., c:\\program files).}
+
+4. If you want to run jboss directly from Eclipse, choose the 'servers' tab, right-click, choose new, then server. Click add : input path to jboss directory and then, in the same tab, you should change JRE to java SDK. But you don't have to do this, jboss can be started from command line: just go to 'jboss/bin' directory a execute 'run.bat/run.sh'.
+
+\textbf{IMPORTANT: Usually Eclipse sets the server timeout for 50ms. You should extend it to 500ms preferably. For doing that, click twice on the Server's Name and change the config timeout. Remember to save the config!}
+
+Once this is done, you have to change a few config files.
+
+5. First, change the path variable 'JBOSS_HOME' in the 'build.properties' file. If working in Windows, be careful to input backslashes in the same way that is in the file. It comes with an example.
+
+Do the same thing in 'seam-gen.properties' file. Uncomment the database configuration you prefer to use.
+
+In resources folder, there is a file called 'testproject-dev-ds.xml'. You can setup the database connection, but you don't need to change anything. Uncomment the database configuration you prefer to use.
+
+\subsection{Configuration for H2 DATABASE}
+Then, move file 'projectfolder/lib/h2-1.1.100.jar' to 'JBOSS_HOME/server/default/lib'. Run it from command line: 'java -jar h2-1.1.100.jar' or just double-click it from IDE.
+
+\subsection{Configuration for POSTGRES8.4 DATABASE}
+You'll need to put the driver file (e.g. postgresql-8.4-701.jdbc3.jar) either in the server's lib dir ('JBOSS_HOME/server/default/lib').
+The driver file (postgresql-8.4-701.jdbc3.jar) is located at your project home/lib (e.g C:\Users\xu\workspace\testproject\lib)
+#http://docs.jboss.org/hibernate/core/3.3/reference/en/html/session-configuration.html
+
+\section{Final Steps}
+Now, you should be good to go. Run the server and execute the deploy task in 'build.xml' (that can be done by adding an Ant inspector module to the IDE and dragging the 'build.xml' file into it. If you expand the tree, you'll see the task.
+
+Once it's done, run the jboss server(from servers tab).
+
+And that's it. Now, you can go to this url: 'localhost:8080/testproject' and see, if it works or not. Contact me if you run into any problems.
+
+Note that you will probably end up with this exception: Exception during request processing:Caused by javax.faces.FacesException with message: "Problem in renderResponse: Could not instantiate Seam component: similarity". You don't have to worry about this, we ended up like this too.
+
+
+in JBOSS_HOME\bin update your JAVA_OPTS at run.bat file
+set JAVA_OPTS=%JAVA_OPTS% -Xms128m -Xmx512m -Dsun.rmi.dgc.client.gcInterval=3600000 -Dsun.rmi.dgc.server.gcInterval=3600000 -XX:MaxPermSize=512m -Xdebug -Xrunjdwp:transport=dt_socket,address=8787,server=y,suspend=n
+
+In Eclipse, set VM Arguments
+-Dprogram.name=run.bat -Djava.endorsed.dirs="D:/programs/jboss-4.2.3.GA/bin/../lib/endorsed" -Xms512m -Xmx1024m -XX:MaxPermSize=256m
+
+See Lucene Connecting db @http://kalanir.blogspot.com/2008/06/indexing-database-using-apache-lucene.html
+\end{document}

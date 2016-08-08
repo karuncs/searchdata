@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/iwis/!svn/ver/2/testproject/bootstrap/deploy/messaging
+END
+destinations-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/iwis/!svn/ver/2/testproject/bootstrap/deploy/messaging/destinations-service.xml
+END
+legacy-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/iwis/!svn/ver/2/testproject/bootstrap/deploy/messaging/legacy-service.xml
+END
+remoting-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/iwis/!svn/ver/2/testproject/bootstrap/deploy/messaging/remoting-service.xml
+END
+connection-factories-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/iwis/!svn/ver/2/testproject/bootstrap/deploy/messaging/connection-factories-service.xml
+END
+messaging-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/iwis/!svn/ver/2/testproject/bootstrap/deploy/messaging/messaging-service.xml
+END
+hsqldb-persistence-service.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/iwis/!svn/ver/2/testproject/bootstrap/deploy/messaging/hsqldb-persistence-service.xml
+END
+jms-ds.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/iwis/!svn/ver/2/testproject/bootstrap/deploy/messaging/jms-ds.xml
+END
