@@ -14,7 +14,7 @@ import aau.Tag;
 import aau.User;
 
 /**
- * @author kreddy,freddurao
+ * @author karunreddy,freddurao
  * 
  */
 public class MEcoImporter {
