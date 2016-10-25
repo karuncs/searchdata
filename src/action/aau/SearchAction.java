@@ -27,7 +27,7 @@ import constant.IConstant;
 
 
 /**
- * @author freddurao
+ * @author freddurao & Karun
  */
 @Name("searchAction")
 @Scope(ScopeType.CONVERSATION)
