@@ -3,7 +3,7 @@ package aau;
 
 
 /**
- * @author Fred
+ * @author Fred & karun
  *
  */
 public interface EvaluationService {
